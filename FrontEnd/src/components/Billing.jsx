@@ -1,5 +1,5 @@
 import React from 'react'
-import { apple, aibot } from '../assets'
+import {  aibot } from '../assets'
 import styles, { layout } from '../style'
 
 const Billing = () => {
